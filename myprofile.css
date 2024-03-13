@@ -29,8 +29,8 @@ nav a {
 }
 
 #AboutMYself {
-    font-size: 4vw;
-  
+   font-size: 4vw;
+    position: absolute;
     left: 40vw;
     top: 24vh;
 }
